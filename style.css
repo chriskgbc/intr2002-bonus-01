@@ -1,16 +1,15 @@
 body {
     font-family: "Verdana";
+    background-color: white;
 }
 
-.btn-primary
-{
+.btn-primary {
     background-color: gold;
-    border-color:transparent;
-    color:black;
+    border-color: transparent;
+    color: black;
 }
 
-#menu .active
-{
+#menu .active {
     background-color: gold !important;
-    color:black !important;
+    color: black !important;
 }
